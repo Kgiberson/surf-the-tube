@@ -25,3 +25,15 @@
 .list-group-item:hover {
 	background-color: #eee;
 }
+
+input::-webkit-input-placeholder {
+	font-style: italic;
+}
+
+input::-moz-placeholder {
+    color: #999;
+    font-style: italic; 
+}
+
+:focus::-webkit-input-placeholder  { color:transparent; }
+:focus::-moz-placeholder   { color:transparent; }
