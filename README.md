@@ -10,6 +10,8 @@ Check it out live on heroku:
 
 Let's face it, sometimes YouTube can be painfully slow and the advertisements are distracting. This app streamlines your YouTube searching.
 
+![YouTube](surf-the-tube-image.png)
+
 ## License
 
 MIT License
